@@ -1,0 +1,8 @@
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\XuRunjing-0221AllLabApp\bin\Debug\XuRunjing-0221AllLabApp.exe.config
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\XuRunjing-0221AllLabApp\bin\Debug\XuRunjing-0221AllLabApp.exe
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\XuRunjing-0221AllLabApp\bin\Debug\XuRunjing-0221AllLabApp.pdb
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\XuRunjing-0221AllLabApp\obj\Debug\XuRunjing-0221AllLabApp.csproj.AssemblyReference.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\XuRunjing-0221AllLabApp\obj\Debug\XuRunjing-0221AllLabApp.csproj.SuggestedBindingRedirects.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\XuRunjing-0221AllLabApp\obj\Debug\XuRunjing-0221AllLabApp.csproj.CoreCompileInputs.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\XuRunjing-0221AllLabApp\obj\Debug\XuRunjing-0221AllLabApp.exe
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\XuRunjing-0221AllLabApp\obj\Debug\XuRunjing-0221AllLabApp.pdb
