@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XuRunjing-0221AllLabApp", "XuRunjing-0221AllLabApp\XuRunjing-0221AllLabApp.csproj", "{4174BD74-24E9-404E-B46F-FDB0B477FC37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabAss2", "LabAss2\LabAss2.csproj", "{99BDB597-10EF-4EB9-BE32-D0762385E971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4174BD74-24E9-404E-B46F-FDB0B477FC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4174BD74-24E9-404E-B46F-FDB0B477FC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4174BD74-24E9-404E-B46F-FDB0B477FC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4174BD74-24E9-404E-B46F-FDB0B477FC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99BDB597-10EF-4EB9-BE32-D0762385E971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BDB597-10EF-4EB9-BE32-D0762385E971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BDB597-10EF-4EB9-BE32-D0762385E971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BDB597-10EF-4EB9-BE32-D0762385E971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0340E95F-E750-4AD4-8778-E26375D7BBF2}
+	EndGlobalSection
+EndGlobal
