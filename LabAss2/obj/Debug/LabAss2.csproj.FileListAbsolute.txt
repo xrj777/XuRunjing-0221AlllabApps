@@ -1,0 +1,11 @@
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\bin\Debug\LabAss2.exe.config
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\bin\Debug\LabAss2.exe
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\bin\Debug\LabAss2.pdb
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.AssemblyReference.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.SuggestedBindingRedirects.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\obj\Debug\LabAss2.Form1.resources
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\obj\Debug\LabAss2.Properties.Resources.resources
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.GenerateResource.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.CoreCompileInputs.cache
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\obj\Debug\LabAss2.exe
+E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss2\obj\Debug\LabAss2.pdb
