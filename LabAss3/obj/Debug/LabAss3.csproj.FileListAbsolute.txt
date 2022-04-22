@@ -1,8 +1,0 @@
-E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.AssemblyReference.cache
-E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.SuggestedBindingRedirects.cache
-E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss3\obj\Debug\LabAss3.frmCustomerDataEntry.resources
-E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss3\obj\Debug\LabAss3.frmCustomerPreview.resources
-E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss3\obj\Debug\LabAss3.MDIParent1.resources
-E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss3\obj\Debug\LabAss3.Properties.Resources.resources
-E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.GenerateResource.cache
-E:\系统默认\桌面\CASE_2021-22\MyRepos\XuRunjing-0221AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.CoreCompileInputs.cache
